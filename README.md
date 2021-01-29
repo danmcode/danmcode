@@ -1,4 +1,11 @@
 ### Hi there 👋
+- I'm from 🇨🇴
+- 🔭 I’m currently working on Seguridad Omega as flutter and php developer
+- 🌱 I’m currently learning Flutter, Laravel, Arduino and Mobile native development
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with IoT learning
+- 📫 How to reach me: @darivera_5
+- ⚡ Fun fact: I like Linux
 
 <!--
 **darivera5/darivera5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
