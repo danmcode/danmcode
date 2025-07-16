@@ -1,23 +1,10 @@
 ### Hi there 👋
-- I'm from 🇨🇴
-- 🔭 I’m currently working on Seguridad Omega as flutter and php developer
-- 🌱 I’m currently learning Flutter, Laravel, Arduino and Mobile native development
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with IoT learning
+I'm from 🇨🇴
+
+- 🧑‍💻 I’m a developer working with TypeScript, Node.js, React, and Flutter
+- 🚀 I’m on the path to becoming a fullstack developer with these technologies
+- 📊 Lately, I’ve been exploring Data Analytics, AI, and Web Development
+- 🐧 I've always had a deep appreciation for Linux – it just feels right
 - 📫 How to reach me: @darivera_5
-- ⚡ Fun fact: I like Linux
+- ⚡ Fun fact: I love diving into new tech just for fun
 
-<!--
-**darivera5/darivera5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
